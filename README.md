@@ -10,7 +10,7 @@ Example project pages built using this template are:
 - https://www.vision.huji.ac.il/ssrl_ad/
 - https://www.vision.huji.ac.il/deepsim/
 
-
+ 
 
 ## Start using the template
 To start using the template click on `Use this Template`.
